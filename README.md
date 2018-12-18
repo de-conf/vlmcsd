@@ -31,6 +31,8 @@ Authoritative source on Microsoft's [TechNet](https://technet.microsoft.com/en-u
 | Windows 10 Core Single Language   | 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH |
 | Windows 10 Professional           | W269N-WFGWX-YVC9B-4J6C9-T83GX |
 | Windows 10 Professional N         | MH37W-N47XK-V7XM9-C7227-GCQG9 |
+|Windows 10 Pro Workstations	      |NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J  |
+|Windows 10 Pro Workstations N	    |9FNHH-K3HBT-3W4TD-6383H-6XYWF  |
 | Windows 10 Enterprise             | NPPR9-FWDCX-D2C8J-H872K-2YT43 |
 | Windows 10 Enterprise N           | DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 |
 | Windows 10 Education              | NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 |
